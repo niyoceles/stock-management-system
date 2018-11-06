@@ -1,0 +1,1 @@
+Stock MGT is a stock management system which helps to manage the products of the stock of the institutions for example: school, hotel. It is developed in JavaScript, PHP, HTML, CSS
