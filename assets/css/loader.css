@@ -1,0 +1,28 @@
+/* ---------- GENERAL ---------- */
+
+ /* PRELOADER STYLES 
+    ===================================*/
+   #pre-div {
+    /*background-color: #fff;*/
+    bottom: 0;
+    height: 100%;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 10000;
+}
+#loader {
+    background-image: url("../img/loader.gif");
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 200px;
+    left: 50%;
+    margin: -100px 0 0 -100px;
+    position: absolute;
+    top: 50%;
+    width: 200px;
+}
+
+/* PRELOADER STYLES 
+    ===================================*/
