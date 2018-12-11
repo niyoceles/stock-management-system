@@ -93,11 +93,9 @@
                       </div>
                       
                       <!--end   -->
-                      <!-- /.row -->
                     </div>
                     <!-- /.col-md-12 -->
                   </div>
-                  <!-- /.row -->
                 </section>
               </div>
             </div>
